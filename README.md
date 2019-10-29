@@ -7,6 +7,6 @@ To view your Jupyter notebook with JavaScript content rendered or to share your 
 
 <img src="https://github.com/jamesdellinger/ai_for_trading_nanodegree_trading_with_momentum_project/blob/master/aitndlogo.png" height="140">
 
-For Udacity's [AI for Trading](https://www.udacity.com/course/ai-for-trading--nd880) Nanodegree.
+For Udacity's [AI for Trading](https://graduation.udacity.com/confirm/C9UGL2Q) Nanodegree.
 
 Topic: Basic Quantitative Trading.
