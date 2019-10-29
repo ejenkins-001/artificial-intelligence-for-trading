@@ -5,6 +5,6 @@ To view your Jupyter notebook with JavaScript content rendered or to share your 
 # Certificate: AI for Trading Nanodegree
 [AI for Trading Nanodegree Certificate](https://graduation.udacity.com/confirm/C9UGL2Q)
 
-<img src="https://github.com/ejeknins-001/artificial-intelligence-for-trading/image.png" height="140">
+<img src="https://github.com/ejenkins-001/artificial-intelligence-for-trading/edit/master/image.png" height="140">
 
 
