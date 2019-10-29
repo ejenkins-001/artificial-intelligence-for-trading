@@ -1,2 +1,2 @@
 # artificial-intelligence-for-trading
-Content for Udacity's AI in Trading NanoDegree. https://www.udacity.com/course/nd880
+To view your Jupyter notebook with JavaScript content rendered or to share your notebook files with others you can use nbviewer. https://nbviewer.jupyter.org/
